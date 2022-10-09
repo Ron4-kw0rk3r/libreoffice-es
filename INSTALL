@@ -1,0 +1,77 @@
+#INTRUCTION
+
+
+## step 1 
+# install only one of the twu options
+
+### sudo pacman -Ss libreoffice-fresh 
+
+sudo pacman -S libreoffice-fresh 
+
+or 
+
+### sudo pacman -Ss libreoffice-still
+
+
+sudo pacman -S libreoffice-still
+
+
+# step 2
+
+# correction of words
+
+
+sudo pacman -S hunspell 
+
+ 
+sudo pacman -S  hunspell-es_es 
+sudo pacman -S hunspell-es_any
+
+
+# sub division of word 
+
+sudo pacman -S hyphen 
+sudo pacman -S hyphen-es 
+
+# synonymous 
+
+sudo pacman -S mythes
+sudo pacman -S mythes-es
+
+# extencions libreoffice
+
+
+sudo pacman  -S languagetool
+
+
+yay -S libreoffice-extencion-languagetool
+
+
+yay -S langugetool-ngrams-es
+
+
+
+# step 4 
+
+#  install only one of twu the options
+
+sudo pacman -S libreoffice-fresh-es
+
+or 
+
+sudo pacman -S libreoffice-still-es
+
+
+
+# the open libreoffice
+
+# on the toolbar
+search tools /options 
+locate 
+<locate settings>
+><language>
+change user interface to Spanish(spanish)
+
+/ end
+
+
