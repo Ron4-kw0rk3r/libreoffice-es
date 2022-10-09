@@ -1,0 +1,2 @@
+# libreoffice-es
+requeriments-libreoffice
